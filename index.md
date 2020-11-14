@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Mandokid's playground
 
-I'm glad you are here. I plan to talk about ...
+Nice to meet you, stranger!
